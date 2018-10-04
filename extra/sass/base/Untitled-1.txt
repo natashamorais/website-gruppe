@@ -1,0 +1,33 @@
+divisoes 
+>>>>>container que tem tudo dentro>>>>>>>>>
+background >> engloba nav e header 
+nav >> links + logo + botão (quero mais )
+
+header >> titulo + texto + botão (experimentar agoora)
+
+article : 
+*o que é >> uma div - 100% centralizada  (texto + imagem )
+*entendi >> titullo (entendi) - abaixo três passos (texto + imagem ) centralizadas juntas
+
+serviços :
+*background-imagem
+titulo : nossos serviços
+consultoria: titulo + imagem + botao (background white + border radius )
+
+roteiro: titulo + imagem + botão 
+
+voce sabia: 
+*background-image 
+titulo: vc sabia que 
+
+tres curiosidades titulo+texto 
+
+
+contato: 
+titulo + form (tres input text+ text area) + submit (button)
+
+novidade: 
+form input text + submit (button ) background amarelo 
+
+footer:
+links + logo + rede sociais + copyright 
