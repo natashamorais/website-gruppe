@@ -1,0 +1,10 @@
+@mixin flexbox ($flex-direction:normal, $justify-content: normal, $align-items: normal){
+  display: flex;
+  -ms-display: flex;
+  -webkit-display: flex;
+  -moz-display: flex;
+  flex-direction: $flex-direction;
+  justify-content: $justify-content;
+  align-items: $align-items;
+
+}

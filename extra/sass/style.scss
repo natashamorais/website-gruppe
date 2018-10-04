@@ -1,10 +1,10 @@
 //----------------helpers---------------------
-@import 'helpers_mixins';
-@import 'helpers_placeholders';
-@import 'helpers_variaveis';
+@import 'helpers/_mixins';
+@import 'helpers/_placeholder';
+@import 'helpers/_variaveis';
 //-------------base
 @import 'base/_base';
 //---------------layout
-@import 'layout__header';
+@import 'layout/_header';
 //----------------components
 @import 'components/_btn';
